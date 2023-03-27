@@ -1,0 +1,46 @@
+{
+  "Users": [
+    {
+      "id": 12,
+      "name": "",
+      "email": "",
+      "password": ""
+    }
+  ],
+  "user_addresses": [
+    {
+      "id": 02,
+      "id_user": 12,
+      "street": "",
+      "streeet_number": "",
+      "zipcoode": "",
+      "id_district": 1,
+      "city": "",
+      "state": "",
+      "complement": ""
+    }
+  ],
+  "products": [
+    {
+      "id": 22,
+      "id_category": 33,
+      "name": "",
+      "img": "",
+      "prince": 5.0,
+      "description": ""
+    }
+  ],
+  "oders": [
+    {
+      "id": 22,
+      "id_user": 12,
+      "id_address": "",
+      "payment_method": "",
+      "payment_money_return": 22.50,
+      "delivery_prince": 6.0,
+      "subtotal": 100.00,
+      "order_date": 22032023,
+      "status": ""
+    }
+  ]
+}
